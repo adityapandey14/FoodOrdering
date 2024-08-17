@@ -10,7 +10,7 @@ import com.example.foodordering.databinding.ActivityStartBinding
 
 class StartActivity : AppCompatActivity() {
 
-    //To connect StartActivity page with loginActivity page
+    //To connect StartActivity page with loginActivity pageq
     private val binding: ActivityStartBinding by lazy {
         ActivityStartBinding.inflate(layoutInflater)
     }
